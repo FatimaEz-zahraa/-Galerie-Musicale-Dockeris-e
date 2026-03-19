@@ -11,7 +11,7 @@ Une application web full-stack dockerisée qui affiche une galerie des meilleurs
 
 ## Installation et Lancement
 1. Assurez-vous d'avoir Docker installé sur votre machine.
-2. Clonez ce dépôt : `git clone <url-du-repo>`
+2. Clonez ce dépôt : `git clone <https://github.com/FatimaEz-zahraa/-Galerie-Musicale-Dockeris-e.git>`
 3. Naviguez dans le dossier : `cd docker-music-gallery`
 4. Lancez l'application avec le script PowerShell : `./launch.ps1`
 
