@@ -15,7 +15,6 @@ Une application web full-stack dockerisée qui affiche une galerie des meilleurs
 3. Naviguez dans le dossier : `cd docker-music-gallery`
 4. Lancez l'application avec le script PowerShell : `./launch.ps1`
 
-L'application sera accessible sur : 
 
 ## Technologies Utilisées
 - Node.js
